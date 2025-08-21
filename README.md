@@ -20,7 +20,8 @@ It highlights regional performance, customer segments, and product category tren
 - <a href = "https://github.com/amitpainwal/PowerBI-Sales-Profit-Dashboard/blob/main/project.pdf"> → Dashboard view </a> 
 - <a href = "https://github.com/amitpainwal/PowerBI-Sales-Profit-Dashboard/blob/main/Sales_Dataset.csv"> → Dataset view </a>
 - <a href = "https://github.com/amitpainwal/PowerBI-Sales-Profit-Dashboard/blob/main/Sales_Profit_Analysis_Dashboard_Summary.pdf"> → Project Summary </a>
-- <img width="1272" height="716" alt="Screenshot 2025-08-21 233847" src="https://github.com/user-attachments/assets/346efbc6-5c3d-43e0-914d-cbf438fdfbb3" />  
+- <img width="1241" height="697" alt="Screenshot 2025-08-21 233529" src="https://github.com/user-attachments/assets/d671905c-e29c-4786-955c-b8a9f5d8ddac" />
+
 
 ## ✨ Outcome
 This dashboard helps businesses focus on profitable products, improve weak areas, and make data-driven decisions.
